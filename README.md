@@ -1,1 +1,1 @@
-This is Vraj's first git project.
+This is Vraj's first git repo.
